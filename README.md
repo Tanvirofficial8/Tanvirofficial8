@@ -23,7 +23,7 @@ I'm an **Oracle Certified Professional (OCP) DBA** with **5+ years of experience
 ### 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-tanvirofficial8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvirofficial8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Official-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link) <!-- Replace with actual link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Official-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/tanvir-hasan-sunny/)) <!-- Replace with actual link -->
 [![GitHub](https://img.shields.io/badge/GitHub-Tanvirofficial8-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanvirofficial8)
 
 ---
