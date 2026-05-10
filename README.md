@@ -23,7 +23,7 @@ I'm an **Oracle Certified Professional (OCP) DBA** with **5+ years of experience
 ### 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-tanvirofficial8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvirofficial8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Official-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/tanvir-hasan-sunny/)) <!-- Replace with actual link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Official-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-hasan-sunny/) <!-- Replace with actual link -->
 [![GitHub](https://img.shields.io/badge/GitHub-Tanvirofficial8-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanvirofficial8)
 
 ---
@@ -48,17 +48,6 @@ I'm an **Oracle Certified Professional (OCP) DBA** with **5+ years of experience
 ![Linux](https://img.shields.io/badge/RHEL%2FWindows%20Server-Admin-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-### 📌 Pinned Repository Ideas (You can create these)
-
-| Repository Name | Description |
-|----------------|-------------|
-| `oracle-db-docker-compose` | Ready-to-use Docker Compose for Oracle 19c with automated backups |
-| `rman-backup-scripts` | Production-ready RMAN backup & recovery scripts with logging |
-| `apex-hospital-management` | Open-source Hospital Management System built with Oracle APEX |
-| `oci-db-automation` | Terraform scripts to spin up OCI Autonomous Databases |
-| `plsql-performance-tuner` | Toolkit for finding and fixing slow PL/SQL queries |
-| `data-guard-in-docker` | Oracle Data Guard setup using Docker for learning/testing |
 
 ---
 
